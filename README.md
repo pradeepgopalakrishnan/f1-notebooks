@@ -1,6 +1,9 @@
 # f1-notebooks
 
 ## Ideas:
+- $$laptime = t_{drs/slipstream} + f(c_{tyre age}, c_{tyre compound}) + c_{car} +\epsilon_{residual error}$$
+  * the tyre age/compound term might as well be a limear function of the constants
+  * estimate $c_{car}$ over the race/season, should be an interesting analysis
 - Lap level position volatility for drivers
 - Front and rear wing image analysis? from Twitter (albert.fabrega)
 - Tyre deg analysis: [link0](https://www.reddit.com/r/F1Technical/comments/11oskuy/computation_of_fuelcorrected_lap_time/) [link1](https://www.reddit.com/r/F1Technical/comments/wrdmmt/hungarian_gp_heat_map_of_fuel_corrected_lap_times/) [link2](https://www.reddit.com/r/F1Technical/comments/y66r32/how_is_tyre_degradation_measured/) [link3](https://www.mdpi.com/2076-3417/10/12/4229)
